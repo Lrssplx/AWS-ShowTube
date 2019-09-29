@@ -1,5 +1,5 @@
 # ShowTube
-Trabalho Final da disciplina Trabalho individual em Arquitetura de Computadores. Tendo como tema programação em nuvem.
+Trabalho Final da disciplina Trabalho individual em Arquitetura de Computadores. Tendo como tema computação em nuvem.
 
 A aplicação consiste em um clone do youtube (ShowTube), onde os usuários podem fazer upload, download, remover e assistir vídeos. Foi utilizado provedor Lambda da AWS para que o foco estivesse apenas na aplicação sem se preocupar com servidor. Na conta AWS criou-se um novo usuário e uma nova política, já para usar o serverless utilizou-se o NodeJS. Funcionalidades consistem em:
 
